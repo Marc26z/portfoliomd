@@ -122,4 +122,4 @@ This is free and open source software that can be found at https://github.com/Pe
 
 [Automate The Boring Stuff With Python](https://www.udemy.com/certificate/UC-49a4e757-2454-4359-8911-d374d9c409cd/)
 
-[python certification](https://pics.marcleon.work/api/v1/t/2cd05acc2c1fbad0bdf5e2715f8d332ee88dfbcd/3j8zlc5w/fit_1280)
+![python certification](https://pics.marcleon.work/api/v1/t/2cd05acc2c1fbad0bdf5e2715f8d332ee88dfbcd/3j8zlc5w/fit_1280)
